@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.f4d69530.chunk.js": "/static/js/0.f4d69530.chunk.js",
+    "main.css": "/static/css/main.82abc164.chunk.css",
+    "main.js": "/static/js/main.0d68c726.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.395cd2a5.js",
+    "static/js/3.519f8372.chunk.js": "/static/js/3.519f8372.chunk.js",
+    "static/js/4.53603410.chunk.js": "/static/js/4.53603410.chunk.js",
+    "static/js/5.68296815.chunk.js": "/static/js/5.68296815.chunk.js",
+    "static/js/6.c5e87c7a.chunk.js": "/static/js/6.c5e87c7a.chunk.js",
+    "static/js/7.ecce080f.chunk.js": "/static/js/7.ecce080f.chunk.js",
+    "static/js/8.1fbda603.chunk.js": "/static/js/8.1fbda603.chunk.js",
+    "static/js/9.c26120ff.chunk.js": "/static/js/9.c26120ff.chunk.js",
+    "static/js/10.b2b26bae.chunk.js": "/static/js/10.b2b26bae.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.01e92b55739f033671b86e3162f44de6.js": "/precache-manifest.01e92b55739f033671b86e3162f44de6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.519f8372.chunk.js.LICENSE.txt": "/static/js/3.519f8372.chunk.js.LICENSE.txt",
+    "static/js/4.53603410.chunk.js.LICENSE.txt": "/static/js/4.53603410.chunk.js.LICENSE.txt",
+    "static/js/5.68296815.chunk.js.LICENSE.txt": "/static/js/5.68296815.chunk.js.LICENSE.txt",
+    "static/js/6.c5e87c7a.chunk.js.LICENSE.txt": "/static/js/6.c5e87c7a.chunk.js.LICENSE.txt",
+    "static/js/8.1fbda603.chunk.js.LICENSE.txt": "/static/js/8.1fbda603.chunk.js.LICENSE.txt",
+    "static/media/boo.png": "/static/media/boo.58e4df74.png",
+    "static/media/boo.banker.png": "/static/media/boo.banker.713605b4.png",
+    "static/media/ecto.png": "/static/media/ecto.8ffcac22.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/pool.boo-ecto.png": "/static/media/pool.boo-ecto.58e4df74.png",
+    "static/media/pool.boo-eth.png": "/static/media/pool.boo-eth.35e6890e.png",
+    "static/media/pool.boo-rot.png": "/static/media/pool.boo-rot.764d32f9.png",
+    "static/media/pool.boo-shroom.png": "/static/media/pool.boo-shroom.00754e22.png",
+    "static/media/pool.ecto-eth.png": "/static/media/pool.ecto-eth.fe58c565.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395cd2a5.js",
+    "static/js/3.519f8372.chunk.js",
+    "static/css/main.82abc164.chunk.css",
+    "static/js/main.0d68c726.chunk.js"
+  ]
+}
